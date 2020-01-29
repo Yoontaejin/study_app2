@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yoontaejin/study_app2/static/css/main.67207ceb.chunk.css",
+    "main.js": "/Yoontaejin/study_app2/static/js/main.f7255a22.chunk.js",
+    "main.js.map": "/Yoontaejin/study_app2/static/js/main.f7255a22.chunk.js.map",
+    "runtime-main.js": "/Yoontaejin/study_app2/static/js/runtime-main.ef4d2d74.js",
+    "runtime-main.js.map": "/Yoontaejin/study_app2/static/js/runtime-main.ef4d2d74.js.map",
+    "static/js/2.b816511c.chunk.js": "/Yoontaejin/study_app2/static/js/2.b816511c.chunk.js",
+    "static/js/2.b816511c.chunk.js.map": "/Yoontaejin/study_app2/static/js/2.b816511c.chunk.js.map",
+    "index.html": "/Yoontaejin/study_app2/index.html",
+    "precache-manifest.3c8150d939f011e5294c7a5929c6f4c7.js": "/Yoontaejin/study_app2/precache-manifest.3c8150d939f011e5294c7a5929c6f4c7.js",
+    "service-worker.js": "/Yoontaejin/study_app2/service-worker.js",
+    "static/css/main.67207ceb.chunk.css.map": "/Yoontaejin/study_app2/static/css/main.67207ceb.chunk.css.map",
+    "static/js/2.b816511c.chunk.js.LICENSE": "/Yoontaejin/study_app2/static/js/2.b816511c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef4d2d74.js",
+    "static/js/2.b816511c.chunk.js",
+    "static/css/main.67207ceb.chunk.css",
+    "static/js/main.f7255a22.chunk.js"
+  ]
+}
